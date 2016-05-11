@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "781836125633",
+    "project_id": "instant-chat-ef6d1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781836125633:android:66ecce2233c7b16c",
+        "android_client_info": {
+          "package_name": "info.androidhive.gcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq16NDaZgO4EYiubOXJ8GZo1BYrEwnnW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
